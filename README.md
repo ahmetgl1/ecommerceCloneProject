@@ -3,7 +3,7 @@
 
 # ABOUT 
  • In this project, the user will be able to create a user with certain information (email - name - surname e.g).
-  It is an e-commerce-like project where you can add your address with address information.
+  It is an e-commerce like project where you can add your address with address information.
  
  # FEATURES :
  
