@@ -7,7 +7,7 @@
  
  # FEATURES :
  
-• User can sign up.
+• User can sign up. (AWS Cognito Service will add or RegEx)
 
 • User can add a product.
 
@@ -36,7 +36,7 @@
 • Hibernate 
 • RabbitMq ( will be added) 
 • Docker  ( will be added) 
-• RegEx Validation ( will be added)
+
 
 
 
